@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1709149745 source:c:\users\adria\onedrive\documente\facultate\anul 1\sem 2\lab1\miercuri 12-14\main.cpp
+	<iostream>
+	"pachet_promo.h"
+
+1709149814 source:c:\users\adria\onedrive\documente\facultate\anul 1\sem 2\lab1\miercuri 12-14\pachet_promo.cpp
+	"pachet_promo.h"
+	<iostream>
+	<string.h>
+
+1709149507 c:\users\adria\onedrive\documente\facultate\anul 1\sem 2\lab1\miercuri 12-14\pachet_promo.h
+
