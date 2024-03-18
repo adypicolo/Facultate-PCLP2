@@ -52,6 +52,7 @@ void elimina(Masina * &v, int &n){
 
 int main()
 {
+    ///1.
     cout << "1." << endl;
     int n;
     Masina *v;
