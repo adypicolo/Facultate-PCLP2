@@ -44,7 +44,6 @@ void elimina(Masina * &v, int &n){
 
     Masina *aux = new Masina[n];
     delete []v;
-    v = new Masina[n];
     for (int i = 0; i < n; i++)
         aux[i] = v[i];
     v = aux;
