@@ -99,7 +99,7 @@ int main()
     ///6.
     fstream g("6.txt", ios::out|ios::app);
     for (int i = 0; i < n; i++)
-        if (catePrenume(p) == 1)
+        if (catePrenume(v[i]) == 1)
             g << v[i];
 
 }
