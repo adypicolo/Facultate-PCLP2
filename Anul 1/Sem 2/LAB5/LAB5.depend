@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1711404251 source:c:\users\adria\onedrive\desktop\facultate-pclp2\anul 1\sem 2\lab5\persoana.cpp
+	"persoana.h"
+	<iostream>
+	<string>
+
+1711403974 c:\users\adria\onedrive\desktop\facultate-pclp2\anul 1\sem 2\lab5\persoana.h
+	<string>
+
+1711400588 source:c:\users\adria\onedrive\desktop\facultate-pclp2\anul 1\sem 2\lab5\main.cpp
+	<iostream>
+	"persoana.h"
+	<string>
+	<fstream>
+
